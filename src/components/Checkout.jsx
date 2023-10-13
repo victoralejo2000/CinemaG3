@@ -31,11 +31,7 @@ const Checkout = () => {
   </div>
   <div class="col-md-4">
     <input className='form-control' type="date" name="" id="" placeholder='Vencimiento' />
-    
-    {/* <select id="inputState" class="form-select">
-      <option selected>Choose...</option>
-      <option>...</option>
-    </select> */}
+
   </div>
   <div class="col-md-2">
     
